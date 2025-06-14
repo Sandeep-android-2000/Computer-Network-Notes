@@ -1,13 +1,13 @@
 # 📚 Computer Network Notes
 
-This repository contains concise and easy-to-understand notes on key topics in Computer Networks. Each topic includes explanations, examples, and important concepts — perfect for quick revision or foundational understanding.
+This repository contains concise and easy-to-understand notes on key topics in **Computer Networks**. Each topic includes explanations, examples, and essential concepts — perfect for quick revision, exam prep, or interview preparation.
 
 ---
 
 ## 🧱 OSI Model
 
 - **Overview of the OSI Model**  
-  Understand the basic structure and functions of the 7-layer OSI Model.  
+  Understand the basic structure and function of the 7-layer OSI Model.  
   🔗 [Read Notes](https://chatgpt.com/share/684d393e-67b8-800f-902d-b205af88b21c)
 
 - **Detailed Layer-wise Breakdown**  
@@ -38,28 +38,38 @@ This repository contains concise and easy-to-understand notes on key topics in C
   Explore ALOHA, CSMA, CSMA/CD, and CSMA/CA in detail.  
   🔗 [Read Notes](https://chatgpt.com/share/684d68e9-460c-800f-a1d7-bdb355687644)
 
+- **Slotted ALOHA & CSMA**  
+  Focused notes on the working of Slotted ALOHA and various CSMA techniques.  
+  🔗 [Read Notes](https://chatgpt.com/share/684d772b-5374-800f-9a99-a243ad8b0cb7)
+
 ---
 
 ## ✅ How to Use
 
 1. Click on any topic link above.
-2. Read or download the notes.
-3. Use them for revision, interview prep, or exam study.
+2. Read or download the notes from the shared ChatGPT link.
+3. Use them for:
+   - Quick revision
+   - Interview preparation
+   - Understanding core networking concepts
 
 ---
 
 ## 💡 Contributions
 
-Feel free to contribute by:
-- Adding more topics or protocols
-- Suggesting improvements
-- Sharing additional references or diagrams
+Contributions are welcome! You can:
+- Add new topics (e.g., TCP/IP, Routing, DNS, etc.)
+- Fix typos or enhance clarity
+- Share diagrams or external references
 
 ---
 
 ## 📬 Contact
 
-For suggestions, doubts, or collaboration, feel free to open an issue or reach out.
+For questions, suggestions, or collaboration opportunities, feel free to:
+- Open an issue on this repository
+- Reach out via email (if provided in profile)
 
 ---
 
+**Happy Learning!** 🚀
