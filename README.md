@@ -1,7 +1,7 @@
 # 📚 Computer Network Notes
 
 Welcome to the **Computer Network Notes** repository!  
-This collection provides beginner-friendly, concise, and interactive notes on core networking concepts — perfect for:
+This collection contains clear, concise, and beginner-friendly notes on core networking topics — perfect for:
 
 ✅ Quick Revisions  
 💼 Interview Preparation  
@@ -27,7 +27,7 @@ This collection provides beginner-friendly, concise, and interactive notes on co
 <details>
 <summary><strong>🔍 Overview of the OSI Model</strong></summary>
 
-A high-level introduction to the 7-layer OSI architecture and its purpose in networking.  
+A high-level introduction to the 7-layer OSI architecture and its role in networking.  
 🔗 [Read Notes](https://chatgpt.com/share/684d393e-67b8-800f-902d-b205af88b21c)
 
 </details>
@@ -35,7 +35,7 @@ A high-level introduction to the 7-layer OSI architecture and its purpose in net
 <details>
 <summary><strong>📚 Layer-by-Layer Breakdown</strong></summary>
 
-Detailed explanation of each OSI layer — from Physical to Application.  
+Detailed explanation of all OSI layers — from Physical to Application.  
 🔗 [Read Notes](https://chatgpt.com/share/684d577d-9dd8-800f-b837-19d65861d6a1)
 
 </details>
@@ -45,9 +45,9 @@ Detailed explanation of each OSI layer — from Physical to Application.
 ## 🔗 Data Link Layer
 
 <details>
-<summary><strong>🧠 Core Concepts in the Data Link Layer</strong></summary>
+<summary><strong>🧠 Core Concepts</strong></summary>
 
-Includes framing, error detection techniques, flow control methods, and more.  
+Explore key concepts like framing, error detection, and flow control.  
 🔗 [Read Notes](https://chatgpt.com/share/684d5c69-ee40-800f-9aa1-1006d9ed6c54)
 
 </details>
@@ -59,7 +59,7 @@ Includes framing, error detection techniques, flow control methods, and more.
 <details>
 <summary><strong>🔁 Switching Techniques</strong></summary>
 
-Understand circuit switching, packet switching, and message switching.  
+Understand circuit, packet, and message switching.  
 🔗 [Read Notes](https://chatgpt.com/share/684d63de-68d4-800f-bc74-fa673a96de3b)
 
 </details>
@@ -71,7 +71,7 @@ Understand circuit switching, packet switching, and message switching.
 <details>
 <summary><strong>⚡ Random Access Protocols</strong></summary>
 
-ALOHA, CSMA, CSMA/CD, and CSMA/CA protocols explained in depth.  
+Dive into ALOHA, CSMA, CSMA/CD, and CSMA/CA protocols.  
 🔗 [Read Notes](https://chatgpt.com/share/684d68e9-460c-800f-a1d7-bdb355687644)
 
 </details>
@@ -79,7 +79,7 @@ ALOHA, CSMA, CSMA/CD, and CSMA/CA protocols explained in depth.
 <details>
 <summary><strong>⏱️ Slotted ALOHA & CSMA Techniques</strong></summary>
 
-Covers slotted ALOHA, different types of CSMA, and their applications.  
+Learn about slotted protocols and CSMA variations.  
 🔗 [Read Notes](https://chatgpt.com/share/684d772b-5374-800f-9a99-a243ad8b0cb7)
 
 </details>
@@ -87,7 +87,7 @@ Covers slotted ALOHA, different types of CSMA, and their applications.
 <details>
 <summary><strong>📶 Persistent Methods & Collision Handling</strong></summary>
 
-Learn how 1-persistent, p-persistent, and non-persistent CSMA work along with CSMA/CD and CSMA/CA.  
+Explore 1-persistent, p-persistent, and non-persistent CSMA, along with CSMA/CD and CSMA/CA.  
 🔗 [Read Notes](https://chatgpt.com/share/684dae9f-46f4-800f-be4c-bd5cf72cb9c6)
 
 </details>
@@ -97,10 +97,26 @@ Learn how 1-persistent, p-persistent, and non-persistent CSMA work along with CS
 ## 📤 Flow & Error Control
 
 <details>
-<summary><strong>🔄 Flow and Error Control Techniques</strong></summary>
+<summary><strong>🔄 Stop-and-Wait ARQ & Basic Techniques</strong></summary>
 
-Understand Stop-and-Wait ARQ, error detection, retransmission strategies, and reliability mechanisms.  
+Understand flow control basics, error detection, and Stop-and-Wait ARQ.  
 🔗 [Read Notes](https://chatgpt.com/share/684dbccd-077c-800f-8190-7995bcfad984)
+
+</details>
+
+<details>
+<summary><strong>🔁 Go-Back-N ARQ</strong></summary>
+
+Learn how the Go-Back-N ARQ protocol handles lost or corrupted frames.  
+🔗 [Read Notes](https://chatgpt.com/share/684e6983-3e74-800f-bb2f-33547091a1c4)
+
+</details>
+
+<details>
+<summary><strong>🎯 Selective Repeat ARQ</strong></summary>
+
+Explore the Selective Repeat ARQ method for efficient retransmission.  
+🔗 [Read Notes](https://chatgpt.com/share/684e6ac1-8984-800f-ba9b-35494c0fff81)
 
 </details>
 
@@ -108,33 +124,34 @@ Understand Stop-and-Wait ARQ, error detection, retransmission strategies, and re
 
 ## ✅ How to Use
 
-1. 📎 Click on any topic title or dropdown above.
-2. 📖 Read or download notes via the linked ChatGPT share.
+1. 📎 Click on any topic title to expand it.
+2. 📖 Access the detailed notes via the shared ChatGPT links.
 3. 🎯 Use these notes to:
-   - Build a solid foundation in networking
-   - Revise for competitive exams
-   - Prepare for technical interviews
+   - Strengthen networking fundamentals
+   - Revise for competitive exams or job interviews
+   - Supplement your academic coursework
 
 ---
 
 ## 💡 Contributions
 
-Want to improve this repository? You can:
+Want to help improve this resource? Here’s how you can contribute:
 
-- ✍️ Add more topics (e.g., TCP/IP, DNS, Routing, HTTP, etc.)
-- 🧠 Enhance explanations or clarify concepts
-- 🖼️ Add helpful visuals, tables, or flowcharts
-- 🪛 Fix typos or markdown formatting
+- ✍️ Add new topics (e.g., TCP/IP, DNS, Routing, HTTP, etc.)
+- 💡 Improve clarity or structure
+- 🖼️ Include visuals (e.g., diagrams, flowcharts)
+- 🪛 Fix typos, formatting, or broken links
 
-> 📌 To contribute, fork the repo and open a pull request!
+> 💻 Fork the repo, make your changes, and open a pull request!
 
 ---
 
 ## 📬 Contact
 
-For any questions, suggestions, or collaboration:
-- 💬 [Open an Issue](https://github.com/your-repo/issues) on this repository
-- 📧 Contact via your GitHub profile or listed email
+Have feedback, suggestions, or ideas for collaboration?
+
+- 💬 [Open an Issue](https://github.com/your-repo/issues)
+- 📧 Reach out via your GitHub profile or linked email
 
 ---
 
