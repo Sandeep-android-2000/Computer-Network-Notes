@@ -1,7 +1,7 @@
 # 📚 Computer Network Notes
 
 Welcome to the **Computer Network Notes** repository!  
-This collection contains clear, concise, and beginner-friendly notes on core networking topics — perfect for:
+This collection features clear, concise, and beginner-friendly notes on essential computer networking topics — perfect for:
 
 ✅ Quick Revisions  
 💼 Interview Preparation  
@@ -59,7 +59,7 @@ Explore key concepts like framing, error detection, and flow control.
 <details>
 <summary><strong>🔁 Switching Techniques</strong></summary>
 
-Understand circuit, packet, and message switching.  
+Understand circuit switching, packet switching, and message switching.  
 🔗 [Read Notes](https://chatgpt.com/share/684d63de-68d4-800f-bc74-fa673a96de3b)
 
 </details>
@@ -97,9 +97,9 @@ Explore 1-persistent, p-persistent, and non-persistent CSMA, along with CSMA/CD 
 ## 📤 Flow & Error Control
 
 <details>
-<summary><strong>🔄 Stop-and-Wait ARQ & Basic Techniques</strong></summary>
+<summary><strong>🔄 Stop-and-Wait ARQ & Core Techniques</strong></summary>
 
-Understand flow control basics, error detection, and Stop-and-Wait ARQ.  
+Understand the basics of flow control, error handling, and Stop-and-Wait ARQ.  
 🔗 [Read Notes](https://chatgpt.com/share/684dbccd-077c-800f-8190-7995bcfad984)
 
 </details>
@@ -107,7 +107,7 @@ Understand flow control basics, error detection, and Stop-and-Wait ARQ.
 <details>
 <summary><strong>🔁 Go-Back-N ARQ</strong></summary>
 
-Learn how the Go-Back-N ARQ protocol handles lost or corrupted frames.  
+Learn how the Go-Back-N protocol handles retransmissions and errors efficiently.  
 🔗 [Read Notes](https://chatgpt.com/share/684e6983-3e74-800f-bb2f-33547091a1c4)
 
 </details>
@@ -115,8 +115,24 @@ Learn how the Go-Back-N ARQ protocol handles lost or corrupted frames.
 <details>
 <summary><strong>🎯 Selective Repeat ARQ</strong></summary>
 
-Explore the Selective Repeat ARQ method for efficient retransmission.  
+Explore the Selective Repeat ARQ strategy for accurate, minimal retransmissions.  
 🔗 [Read Notes](https://chatgpt.com/share/684e6ac1-8984-800f-ba9b-35494c0fff81)
+
+</details>
+
+<details>
+<summary><strong>🚨 Error Types & Detection</strong></summary>
+
+Different types of transmission errors and how they are identified in networks.  
+🔗 [Read Notes](https://chatgpt.com/share/684e71c0-a344-800f-8a4e-fd50a91c1e0e)
+
+</details>
+
+<details>
+<summary><strong>🛠️ Error Detection Techniques</strong></summary>
+
+Explore methods like parity check, CRC, checksum, and more.  
+🔗 [Read Notes](https://chatgpt.com/share/684e8eb5-320c-800f-a03e-af87b7d84a9c)
 
 </details>
 
@@ -124,31 +140,31 @@ Explore the Selective Repeat ARQ method for efficient retransmission.
 
 ## ✅ How to Use
 
-1. 📎 Click on any topic title to expand it.
-2. 📖 Access the detailed notes via the shared ChatGPT links.
+1. 📎 Expand any topic title above.
+2. 📖 Click on the shared ChatGPT link to view the interactive notes.
 3. 🎯 Use these notes to:
-   - Strengthen networking fundamentals
-   - Revise for competitive exams or job interviews
-   - Supplement your academic coursework
+   - Strengthen your networking fundamentals
+   - Revise key topics before exams or interviews
+   - Complement your academic coursework or online study
 
 ---
 
 ## 💡 Contributions
 
-Want to help improve this resource? Here’s how you can contribute:
+Want to help improve this resource? Here's how you can contribute:
 
 - ✍️ Add new topics (e.g., TCP/IP, DNS, Routing, HTTP, etc.)
-- 💡 Improve clarity or structure
-- 🖼️ Include visuals (e.g., diagrams, flowcharts)
-- 🪛 Fix typos, formatting, or broken links
+- 💡 Refine or expand explanations
+- 🖼️ Add diagrams, tables, or flowcharts for better understanding
+- 🪛 Fix typos, broken links, or improve formatting
 
-> 💻 Fork the repo, make your changes, and open a pull request!
+> 📌 To contribute, fork the repo, make your changes, and open a pull request!
 
 ---
 
 ## 📬 Contact
 
-Have feedback, suggestions, or ideas for collaboration?
+Have feedback, ideas, or collaboration proposals?
 
 - 💬 [Open an Issue](https://github.com/your-repo/issues)
 - 📧 Reach out via your GitHub profile or linked email
